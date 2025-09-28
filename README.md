@@ -1,13 +1,13 @@
-# ureminders Website
+# YURIMINDERS Website
 
-A modern, black and white React website for ureminders - an AI-powered location-aware task reminder app on Snapchat.
+A modern Yuri React website for jelking, edging, and gooning - an AI-powered reminder app on Snapchat that reminds you to draw yuri and yaoi.
 
 ## Features
 
-- **Location-Aware Reminders**: Get relevant tasks based on your current location
-- **AI-Powered Suggestions**: Smart task recommendations from conversation analysis
-- **Snapchat Integration**: Seamlessly integrated into your Snapchat experience
-- **Real-Time Updates**: Dynamic task prioritization based on location and context
+- **Location-Aware Reminders**: Pull up to Aldi's → boom, task unlocked (skibidi relevant 📍).
+- **AI-Powered Suggestions**: Smart recs from convo analysis (rizzed up by GPT 💅).
+- **Snapchat Integration**: Tasks live in your snaps rent free 💀.
+- **Real-Time Updates**: Dynamic priority shuffle (no cap ⚡).
 
 ## Getting Started
 
@@ -15,6 +15,8 @@ A modern, black and white React website for ureminders - an AI-powered location-
 
 - Node.js (version 14 or higher)
 - npm or yarn
+- an open mind
+- a love for yuri and yaoi of us (and the occasional international) universities
 
 ### Installation
 
@@ -28,7 +30,7 @@ npm install
 npm start
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3. Open [http://localhost:6677](http://localhost:6677) to view it in the browser.
 
 ### Building for Production
 
@@ -36,57 +38,46 @@ npm start
 npm run build
 ```
 
-This builds the app for production to the `build` folder.
+This builds [built different >:)] the app for production to the `build` folder.
 
 ## Project Structure
 
 ```
 src/
-├── components/
-│   ├── Header.js          # Navigation header
-│   ├── Hero.js            # Hero section with app preview
-│   ├── Features.js        # Features showcase
-│   ├── HowItWorks.js      # Step-by-step guide
-│   └── Footer.js          # Footer with links and download CTA
-├── App.js                 # Main app component
-├── App.css               # Global app styles
-├── index.js              # React entry point
-└── index.css             # Global styles and utilities
+├── Yuri/
+│   ├── Harvard x MIT😳.js          #the og college yuri to start all the college yuri 
+│   ├── Oxbridge😳.js                # Yuri but they're old and br*tish
+│   ├── Northwester x UChicago😳.js       # midwest yuri 
+│   └── UMich x ???😳😳😳😳😳😳.js      # new yuri inspired by my time in mhacks
+├── Yaoi/
+│   ├── Stanford x Berkeley.js          # the og yaoi for bay area cs startup linkedin warrior sweats
+│   ├── Caltech x Harvey Mudd.js            # yaoi but they both don't go outside
+│   └── UToronto x Waterloo.js          # what if we did our 12 coops together? 🥺👉👈 haha... jk.... unless 😳😳😳
+├── the rest of the app lmao                 # idk whats in here
 ```
 
 ## Design Features
 
-- **Black and White Theme**: Clean, minimalist design
-- **Responsive Layout**: Works on all device sizes
-- **Modern Typography**: Inter font family for readability
-- **Smooth Animations**: Hover effects and transitions
-- **Mobile-First**: Optimized for mobile devices
+- **Black and White Theme**: Clean, minimalist (npc aesthetic 💀) (so you can see the yuri better)
+- **Responsive Layout**: Works on all screens (even ohio devices) (so everybody can look at yuri)
+- **Modern Typography**: Inter font family = giga chad readable 🔥 (yuri will be readable)
+- **Smooth Animations**: Hover sauce + transitions 💃 (all the better to trainsition to yuri)
+- **Mobile-First**: Optimized for mobile devices (optimized for MAXIMUM YURI VIEWING)
 
-## Technologies Used
+## SEX😳😳nologies Used 🛠️
 
-- React 18
-- CSS3 with modern features
-- Responsive design principles
-- Semantic HTML5
+- React 18 (latest skibidi react)
+- CSS3 with modern seasoning 🌶️
+- Responsive design sigma rules 📐
+- Semantic HTML5 (trust 💀)
 
 ## Customization
 
-The website is built with modular components that can be easily customized:
-
-- Update colors in CSS files
-- Modify content in component files
-- Add new sections by creating new components
-- Update styling in individual component CSS files
+The website should not be customized. The layout of this page, as well as all the ships contained within, are canon and not to be portrayed otherwise. 
 
 ## Deployment
 
-The website can be deployed to any static hosting service:
+The website should not be deployed. 
 
-- Netlify
-- Vercel
-- GitHub Pages
-- AWS S3 + CloudFront
-
-Simply run `npm run build` and upload the contents of the `build` folder.
 
 
