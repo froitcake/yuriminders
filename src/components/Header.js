@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import './Header.css';
+import React, { useState } from "react";
+import "./Header.css";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -13,22 +13,32 @@ const Header = () => {
       <div className="container">
         <div className="header-content">
           <div className="logo">
-            <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="ureminders logo" className="logo-image" />
-            <h1>ureminders</h1>
+            <img
+              src={`${process.env.PUBLIC_URL}/logo.png`}
+              alt="ureminders logo"
+              className="logo-image"
+            />
+            <h1>yuriminders</h1>
           </div>
-          
-          <nav className={`nav ${isMenuOpen ? 'nav-open' : ''}`}>
-            <a href="#demo" className="nav-link">Demo</a>
-            <a href="#features" className="nav-link">Features</a>
-            <a href="#features" className="nav-link">GitHub</a>
+
+          <nav className={`nav ${isMenuOpen ? "nav-open" : ""}`}>
+            <a href="#demo" className="nav-link">
+              Harvard x MIT fanart
+            </a>
+            <a href="#features" className="nav-link">
+              Other Ships
+            </a>
+            <a href="#features" className="nav-link">
+              GitHub
+            </a>
           </nav>
 
-          <button 
+          <button
             className="menu-toggle"
             onClick={toggleMenu}
             aria-label="Toggle menu"
           >
-            <span className={`hamburger ${isMenuOpen ? 'hamburger-open' : ''}`}>
+            <span className={`hamburger ${isMenuOpen ? "hamburger-open" : ""}`}>
               <span></span>
               <span></span>
               <span></span>
@@ -41,4 +51,3 @@ const Header = () => {
 };
 
 export default Header;
-

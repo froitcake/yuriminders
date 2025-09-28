@@ -100,11 +100,11 @@ const Hero = () => {
           </div>
           
           <h1 className="hero-title" ref={titleRef}>
-            ureminders
+            yuriminders
           </h1>
           
           <p className="hero-subtitle" ref={subtitleRef}>
-            Smart productivity tool for <span className="snapchat-yellow">Snapchat Spectacles</span> powered by AI and spatial detection
+             <span className="strikethrough">smart</span> average-intelligence productivity tool for <span className="snapchat-yellow">Yuri and Yaoi</span> powered by AI and spatial detection
           </p>
           
           <div className="scroll-indicator" ref={buttonsRef}>

@@ -58,7 +58,7 @@ const Features = () => {
         <div className="section-header text-center">
           <h2 className="section-title">key features</h2>
           <p className="section-description">
-            Built for Snapchat Spectacles with Lens Studio
+            Built for shipping presitious universities without Lens Studio
           </p>
         </div>
 
@@ -84,14 +84,14 @@ const Features = () => {
         </div>
 
         <div className="features-cta text-center">
-          <h3>explore the project</h3>
-          <p>Check out the live website and GitHub repository for more details.</p>
+          <h3>explore more yuri and yaoi</h3>
+          <p>check out these fanfics that fiona found on reddit in 10th grade for more information</p>
           <div className="cta-buttons">
-            <a href="https://github.com/hiheidiz/ureminders.github.io" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
-              Website Repo
+            <a href="https://www.reddit.com/r/ApplyingToCollege/comments/s7iaur/berkeley_x_stanford_gay_fanfic_enemies_to_lovers/" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+              Stanford x Berkeley Enemies to Lovers
             </a>
-            <a href="https://github.com/Anipaleja/MHacks" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">
-              Project Repo
+            <a href="https://www.reddit.com/r/ApplyingToCollege/comments/rwifwj/alpha_league_an_ivy_boys_fanfic/" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">
+              the Ivy Boys
             </a>
           </div>
         </div>
@@ -107,5 +107,4 @@ const Features = () => {
 };
 
 export default Features;
-
 
