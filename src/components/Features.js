@@ -32,7 +32,7 @@ const Features = () => {
     {
       icon: '🪿',
       title: 'UToronto x Waterloo',
-      description: 'Location-aware reminders that appear when you\'re in the right place. See grocery lists at the store, home tasks when you arrive.',
+      description: 'shoutout to the canada geese i saw this morning for coming all the way to michigan to tell me this news. ',
       details: [
         'GPS and spatial tracking',
         'Context-aware filtering',
@@ -56,7 +56,7 @@ const Features = () => {
     <section id="features" className="features section">
       <div className="container">
         <div className="section-header text-center">
-          <h2 className="section-title">key features</h2>
+          <h2 className="section-title">key ships</h2>
           <p className="section-description">
             Built for shipping presitious universities without Lens Studio
           </p>

@@ -1,5 +1,5 @@
-import React from 'react';
-import './DemoVideo.css';
+import React from "react";
+import "./DemoVideo.css";
 
 const DemoVideo = () => {
   return (
@@ -8,10 +8,23 @@ const DemoVideo = () => {
         <div className="section-header text-center">
           <h2 className="section-title">see it in action</h2>
           <p className="section-description">
-            Watch how ureminders works on Snapchat Spectacles
+            look at this yuri of massachusetts colleges
           </p>
         </div>
 
+        <img
+          src={`${process.env.PUBLIC_URL}/mitxharvard1.jpeg`}
+          alt="Grocery"
+        />
+        <img
+          src={`${process.env.PUBLIC_URL}/mitxharvard2.jpeg`}
+          alt="Grocery"
+        />
+        <img
+          src={`${process.env.PUBLIC_URL}/mitxharvard3.jpeg`}
+          alt="Grocery"
+        />
+        {/* 
         <div className="video-container">
           <div className="video-placeholder">
             <div className="play-button">
@@ -24,8 +37,7 @@ const DemoVideo = () => {
               <p>Coming soon - Spectacles lens demo</p>
             </div>
           </div>
-        </div>
-
+        </div> */}
       </div>
     </section>
   );

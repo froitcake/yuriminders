@@ -83,13 +83,13 @@ const Hero = () => {
       {/* Hero Images */}
       <div className="hero-images">
         <div className="hero-image study-image">
-          <img src={`${process.env.PUBLIC_URL}/study.jpeg`} alt="Study" />
+          <img src={`${process.env.PUBLIC_URL}/utorxwatt.jpeg`} alt="Study" />
         </div>
         <div className="hero-image spectacles-image">
           <img src={`${process.env.PUBLIC_URL}/spectacles.png`} alt="Spectacles" />
         </div>
         <div className="hero-image grocery-image">
-          <img src={`${process.env.PUBLIC_URL}/grocery.jpg`} alt="Grocery" />
+          <img src={`${process.env.PUBLIC_URL}/utorxwatt2.jpeg`} alt="Grocery" />
         </div>
       </div>
       
