@@ -8,9 +8,9 @@ const Features = () => {
 
   const features = [
     {
-      icon: '📝',
-      title: 'task adding interface',
-      description: 'Intuitive UI for adding tasks directly in your Spectacles view. Simple gestures and voice commands make task creation effortless.',
+      icon: '🐻🌲',
+      title: 'Stanford x Berkeley',
+      description: 'Imagine you"re average wattpad fanfic, but they"re both shameless bay area cs startup grinder linkedin warriors',
       details: [
         'Gesture-based input',
         'Quick task templates',
@@ -19,9 +19,9 @@ const Features = () => {
       image: 'https://via.placeholder.com/600x400/6478f5/ffffff?text=Task+Adding+Interface+Demo'
     },
     {
-      icon: '🤖',
-      title: 'ai & voice integration',
-      description: 'Smart AI analyzes your conversations and context to suggest relevant tasks, plus hands-free voice commands for task creation.',
+      icon: '🟪🦅',
+      title: 'Northwesten x UChicago',
+      description: 'what if we went to illinois together.... mental illinois.....',
       details: [
         'AI conversation analysis',
         'Voice task creation',
@@ -30,8 +30,8 @@ const Features = () => {
       image: 'https://via.placeholder.com/600x400/6478f5/ffffff?text=AI+Voice+Integration+Demo'
     },
     {
-      icon: '📍',
-      title: 'spatial detection',
+      icon: '🪿',
+      title: 'UToronto x Waterloo',
       description: 'Location-aware reminders that appear when you\'re in the right place. See grocery lists at the store, home tasks when you arrive.',
       details: [
         'GPS and spatial tracking',
